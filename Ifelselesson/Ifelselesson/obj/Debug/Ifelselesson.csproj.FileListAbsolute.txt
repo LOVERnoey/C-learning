@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C# study\Ifelselesson\Ifelselesson\bin\Debug\Ifelselesson.exe.config
+C:\Users\user\Desktop\C# study\Ifelselesson\Ifelselesson\bin\Debug\Ifelselesson.exe
+C:\Users\user\Desktop\C# study\Ifelselesson\Ifelselesson\bin\Debug\Ifelselesson.pdb
+C:\Users\user\Desktop\C# study\Ifelselesson\Ifelselesson\obj\Debug\Ifelselesson.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# study\Ifelselesson\Ifelselesson\obj\Debug\Ifelselesson.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# study\Ifelselesson\Ifelselesson\obj\Debug\Ifelselesson.exe
+C:\Users\user\Desktop\C# study\Ifelselesson\Ifelselesson\obj\Debug\Ifelselesson.pdb
