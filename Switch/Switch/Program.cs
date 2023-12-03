@@ -9,7 +9,7 @@ namespace Switch {
         static void Main(string[] args)
         {
 
-            Rnd();
+            Console.WriteLine("Update from git");
 
             Console.ReadLine();
         }
